@@ -4,6 +4,7 @@ from dictionary_data import words
 
 
 
+
 def read_word(id: int = None):
     """
     Read word from `dictionary_data.py`
