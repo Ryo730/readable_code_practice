@@ -1,1 +1,1 @@
-# readable_code_practice
+Summer lessons practice
